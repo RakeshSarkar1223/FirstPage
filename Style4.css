@@ -1,0 +1,103 @@
+#body1{
+    background-image: url('https://wallpapercave.com/wp/wp5230899.jpg');
+    justify-content: center;
+    /* background-size: cover;
+    background-position: center; */
+}
+#body2{
+    /* background-image: url('https://wallpapercave.com/wp/wp5230899.jpg'); */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+}
+/* h1{
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+    
+} */
+
+/* div {
+    text-align: center;
+    background-color: black;
+    color: white;
+} */
+#div2{
+    background-color: blue;
+    width: 20%;
+    height:20%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#Formula1{
+    background-color: blue;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+#Formula2{
+    font-size: xx-large;
+    background-color: blue;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#pre1{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    background-color: greenyellow;
+}
+#div5{
+    text-align: center;
+}
+#div6{
+    text-align: center;
+    
+}
+#span1{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: goldenrod;
+}
+table {
+    width: 80%; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the table horizontally */
+    border-collapse:collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #000000;
+}
+
+th {
+    background-color: #e1ff00;
+}
+#form1{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(94, 242, 86);
+    padding: 10px;
+}
+#name{
+    background-color: #e5ff00;
+}
+#div12{
+    text-align: center;
+    
+}
